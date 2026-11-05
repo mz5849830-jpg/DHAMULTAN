@@ -1,0 +1,32 @@
+# Only the "public" folder is published. Server code (netlify/), docs and package.json stay private.
+[build.environment]
+  ADMIN_NO_LOGIN = "true"   # admin opens without sign-in; delete this line to bring the login back
+
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["public/**", "netlify/**", "docs/**", "netlify.toml", "package.json", "backup-data/**"]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Strict-Transport-Security = "max-age=31536000"
+
+[[headers]]
+  for = "/admin*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/doc-editor.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    X-Frame-Options = "DENY"
+    Cache-Control = "no-cache"

@@ -1,0 +1,200 @@
+{
+ "createdAt": "2026-11-05T10:02:48.195Z",
+ "note": "Restored automatically on first visit of a new Netlify site. No logins included.",
+ "items": [
+  {
+   "s": "maskan",
+   "k": "backup:site:1793469914350",
+   "f": "files/00001.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793469999077",
+   "f": "files/00002.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793469981943",
+   "f": "files/00003.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793469931068",
+   "f": "files/00004.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793469984439",
+   "f": "files/00005.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793470471696",
+   "f": "files/00006.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793470485537",
+   "f": "files/00007.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475735277",
+   "f": "files/00008.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793472280856",
+   "f": "files/00009.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475719087",
+   "f": "files/00010.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475723263",
+   "f": "files/00011.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475546537",
+   "f": "files/00012.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475875064",
+   "f": "files/00013.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793639233130",
+   "f": "files/00014.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475881211",
+   "f": "files/00015.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475879251",
+   "f": "files/00016.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793475877287",
+   "f": "files/00017.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793638883460",
+   "f": "files/00018.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793639463112",
+   "f": "files/00019.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "credReset",
+   "f": "files/00020.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/4103c8b95d6a9c9f.webp",
+   "f": "files/00021.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/4647a00413c3941f.webp",
+   "f": "files/00022.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan",
+   "k": "site",
+   "f": "files/00023.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan",
+   "k": "backup:site:1793639880284",
+   "f": "files/00024.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/73a75a89970b9233.webp",
+   "f": "files/00025.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan-media",
+   "k": "index",
+   "f": "files/00026.bin",
+   "m": {}
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/dd9dfe150940b148.webp",
+   "f": "files/00027.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/e5f705fa865109e4.webp",
+   "f": "files/00028.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/9120bf93b0f3712d.webp",
+   "f": "files/00029.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  },
+  {
+   "s": "maskan-media",
+   "k": "f/de2a889775e16068.webp",
+   "f": "files/00030.bin",
+   "m": {
+    "type": "image/webp"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+# All public pages, /sitemap.xml, /robots.txt and /ads.txt are served by netlify/functions/page.mjs
+# (configured with export const config). API routes are handled by their own functions.
